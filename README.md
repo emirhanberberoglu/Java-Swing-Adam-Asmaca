@@ -20,7 +20,14 @@ Bu proje, Java ve Swing arayüz kütüphanesi kullanılarak geliştirilmiş, gel
 
 ## 📸 Ekran Görüntüleri
 
-*Giriş Ekranı, Oyun Ekranı ve Log/Skor Tablolarının resimlerini buraya sürükleyip bırakabilirsiniz.*
+*Giriş Ekranı, Oyun Ekranı ve Log/Skor Tablolarının resimlerini buraya sürükleyip bırakabilirsiniz.
+<img width="743" height="318" alt="Ekran görüntüsü 2026-05-27 171702" src="https://github.com/user-attachments/assets/37d17bd8-2c25-4274-9484-0df7ca509986" />
+<img width="402" height="328" alt="Ekran görüntüsü 2026-05-27 171417" src="https://github.com/user-attachments/assets/bf0a8cf9-b219-4cb9-b1ec-8bb433f26e0b" />
+<img width="256" height="150" alt="Ekran görüntüsü 2026-05-27 171900" src="https://github.com/user-attachments/assets/4496691c-3b33-40be-bc9a-d693b5f40fa0" />
+<img width="320" height="141" alt="Ekran görüntüsü 2026-05-27 171829" src="https://github.com/user-attachments/assets/75800500-7a03-4c5e-91bd-9eab09653aff" />
+<img width="740" height="206" alt="Ekran görüntüsü 2026-05-27 171757" src="https://github.com/user-attachments/assets/a0e1e769-7424-4e51-9097-d346dfff427d" />
+<img width="746" height="229" alt="Ekran görüntüsü 2026-05-27 171733" src="https://github.com/user-attachments/assets/23fc9d87-718e-4e9f-8124-094450400e57" />
+*
 
 ## ⚙️ Kurulum ve Çalıştırma
 
