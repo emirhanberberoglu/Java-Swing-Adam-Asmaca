@@ -20,13 +20,27 @@ Bu proje, Java ve Swing arayüz kütüphanesi kullanılarak geliştirilmiş, gel
 
 ## 📸 Ekran Görüntüleri
 
+* Oyuna Giriş Ekranı
+  
+<img width="402" height="328" alt="Ekran görüntüsü 2026-05-27 171417" src="https://github.com/user-attachments/assets/78ece4f9-42e1-433e-88cb-2ff23e118132" />
 
-<img width="743" height="318" alt="Ekran görüntüsü 2026-05-27 171702" src="https://github.com/user-attachments/assets/37d17bd8-2c25-4274-9484-0df7ca509986" />
-<img width="402" height="328" alt="Ekran görüntüsü 2026-05-27 171417" src="https://github.com/user-attachments/assets/bf0a8cf9-b219-4cb9-b1ec-8bb433f26e0b" />
-<img width="256" height="150" alt="Ekran görüntüsü 2026-05-27 171900" src="https://github.com/user-attachments/assets/4496691c-3b33-40be-bc9a-d693b5f40fa0" />
-<img width="320" height="141" alt="Ekran görüntüsü 2026-05-27 171829" src="https://github.com/user-attachments/assets/75800500-7a03-4c5e-91bd-9eab09653aff" />
-<img width="740" height="206" alt="Ekran görüntüsü 2026-05-27 171757" src="https://github.com/user-attachments/assets/a0e1e769-7424-4e51-9097-d346dfff427d" />
-<img width="746" height="229" alt="Ekran görüntüsü 2026-05-27 171733" src="https://github.com/user-attachments/assets/23fc9d87-718e-4e9f-8124-094450400e57" />
+* Oyun Ana Ekranından Oynanış Ve Sekmeler İle İlgili Ekran Görüntüleri
+
+<img width="743" height="318" alt="Ekran görüntüsü 2026-05-27 171702" src="https://github.com/user-attachments/assets/b37cbed8-7e70-49c8-a428-06816f76ad1d" />
+<img width="746" height="229" alt="Ekran görüntüsü 2026-05-27 171733" src="https://github.com/user-attachments/assets/4fe04f33-6584-4f46-b6a1-560a774fde38" />
+<img width="740" height="206" alt="Ekran görüntüsü 2026-05-27 171757" src="https://github.com/user-attachments/assets/e3e630c8-eb1c-42be-9fc4-35d7f7534fca" />
+
+* Oyun İçi Mesajlar
+
+<img width="320" height="141" alt="Ekran görüntüsü 2026-05-27 171829" src="https://github.com/user-attachments/assets/45ff6eed-f452-4078-b5a7-ca3ba8f965ca" />
+<img width="256" height="150" alt="Ekran görüntüsü 2026-05-27 171900" src="https://github.com/user-attachments/assets/1ac3cd2d-2406-4322-9c6a-f8a4b1945230" />
+
+
+
+
+
+
+
 
 
 ## ⚙️ Kurulum ve Çalıştırma
